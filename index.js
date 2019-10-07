@@ -1,3 +1,5 @@
 const pets = ["Milo", "Otis", "Garfield"];
  
-pets.push('Odie');
+function append {
+  pets.push('Odie');
+}
