@@ -1,1 +1,3 @@
-// Write your solution here!
+function array_functions
+  push("Odie")
+end 
