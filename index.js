@@ -1,5 +1,5 @@
 const pets = ["Milo", "Otis", "Garfield"];
  
-function append {
+function append(pets) {
   pets.push('Odie');
 }
