@@ -1,3 +1,3 @@
-const pets = ['Catwoman', "Miss Marvel", 'She-Hulk', 'Jessica Jones'];
+const pets = ["Milo", "Otis", "Garfield"];
  
 pets.push('Odie');
