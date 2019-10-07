@@ -1,3 +1,3 @@
-function array_functions
-  push("Odie")
-end 
+const pets = ['Catwoman', "Miss Marvel", 'She-Hulk', 'Jessica Jones'];
+ 
+pets.push('Odie');
